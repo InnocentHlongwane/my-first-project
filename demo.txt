@@ -2,7 +2,7 @@ initial content
 <html>
 <body>
 <title>
-hello world!!regaugetswe.reguagetswekekana@gmail.com
+hello world!!regaugetswe.reguagetswekekana@gmail.com.IT developer
 </title>
 </body>
 </html>
